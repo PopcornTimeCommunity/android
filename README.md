@@ -1,21 +1,15 @@
-[Popcorn Time for Android](https://git.popcorntime.io/popcorntime/android)  [![Build Status](http://ci.popcorntime.io/buildStatus/icon?job=Popcorn-Android)](http://ci.popcorntime.io/job/Popcorn-Android/)
+[Popcorn Time for Android](https://github.com/PopcornTime-CE/android)
 ----
 
 Allow any Android user to watch movies easily streaming from torrents, without any particular knowledge.
 
-Visit the project's website at <http://popcorntime.io>.
-
-* [Continuous Integration](http://ci.popcorntime.io/job/Popcorn-Android/)
-* [Issue Tracker](https://git.popcorntime.io/popcorntime/android/issues)
+Visit the project's website at <http://popcorntime.ag>.
 
 ## Community
 
 Keep track of Popcorn Time development and community activity.
 
-* Follow Popcorn Time on [Twitter](https://twitter.com/popcorntimetv), [Facebook](https://www.facebook.com/PopcornTimeTv) and [Google+](https://plus.google.com/+PopcorntimeIo).
-* Read and subscribe to the [The Official Popcorn Time Blog](http://blog.popcorntime.io).
-* Join in discussions on the [Popcorn Time Forum](https://discuss.popcorntime.io)
-* Connect with us on IRC at `#popcorntime` on freenode ([web access](http://webchat.freenode.net/?channels=popcorntime))
+* Join in discussions on the [Popcorn Time Subreddit](https://reddit.com/r/PopcornTime-CE)
 
 ## Getting Involved
 
@@ -113,6 +107,6 @@ Note: some dependencies are external libraries, which might be covered by a diff
 
 ***
 
-If you want to contact us: [hello@popcorntime.io](mailto:hello@popcorntime.io)
-
-Copyright (c) 2014 Popcorn Time Foundation - Released under the [GPL V3 license](https://git.popcorntime.io/popcorntime/android/blob/development/LICENSE.md).
+If you want to contact us : send pm to [samewhiterabbits](https://www.reddit.com/user/Samewhiterabbits) on reddit or [use the form](http://yify.is/index.php/blog/contact) on the yify website.
+ 
+Copyright (c) 2015 Popcorn Time Community - Released under the [GPL v3 license](LICENSE.txt).
