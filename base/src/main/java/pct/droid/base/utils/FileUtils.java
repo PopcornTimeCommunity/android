@@ -50,6 +50,7 @@ public class FileUtils {
         sOverrideMap = new HashMap<>();
         sOverrideMap.put("tr", "ISO-8859-9");
         sOverrideMap.put("sr", "Windows-1250");
+        sOverrideMap.put("hr", "Windows-1250");
     }
 
     /**
